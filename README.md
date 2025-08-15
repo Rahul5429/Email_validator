@@ -12,7 +12,7 @@ A simple and efficient web application to validate email addresses using the **E
 - **HTML** – Structure  
 - **CSS** – Styling  
 - **JavaScript** – Validation logic  
-- **EmailValidation API** – Email verification service  
+- **EmailValidation API** – Email verification service 
 
 ## Project Structure
 Email_Validator/
